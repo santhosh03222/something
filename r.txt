@@ -1,6 +1,1 @@
-Django==3.2.16
-afasdfsa\s
-
-fasfa
-
-kljk
+removable changes 1
